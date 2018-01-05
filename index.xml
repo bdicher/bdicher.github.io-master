@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bogdan Dicher</title>
+    <link>http://bdicher.me/</link>
+    <description>Recent content on Bogdan Dicher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Nov 2016 22:16:24 +0100</lastBuildDate>
+    <atom:link href="http://bdicher.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Rebetiko (I)</title>
+      <link>http://bdicher.me/post/rebetiko/</link>
+      <pubDate>Sun, 27 Nov 2016 22:16:24 +0100</pubDate>
+      
+      <guid>http://bdicher.me/post/rebetiko/</guid>
+      <description>&lt;p&gt;My friends know (and are duly horrified by the fact) that I have a bit
+of a &lt;em&gt;faiblesse&lt;/em&gt; for a rather strange musical genre: &lt;em&gt;rebetiko&lt;/em&gt;. Lately,
+some rebetika made it back into my daily playlists. So in this post I’ll
+begin to tell you the story of my encounter with rebetiko. I’ll do it
+backwards: today I’m going to tell you where I got; in a future post
+I’ll tell you where I started from. (If you can’t wait that long, click
+&lt;a href=&#34;https://youtu.be/fqW89c4vbBA?list=PLd2ehAknsn53rKqokJO5afKSRiPTfc1Jt&#34;&gt;here&lt;/a&gt;
+for a clue.)&lt;/p&gt;
+
+&lt;p&gt;Rebetiko is a Greek musical genre (perhaps the word ‘tradition’
+describes it better) whose roots are in the musical practice of the
+suburban (and often interlope) Greek world at the turn of the 20th
+century. What I like about it, at least in its pre-classical and
+classical periods (that’s before and, respectively, during the 30s) is
+the transparency of its eclectic nature. Rebetika draw heavily on the
+Oriental (Asian) musical traditions. Indeed, initially, they are
+&lt;em&gt;oriental&lt;/em&gt; songs. Here’s a sample: Marika Papagika’s 1919 recording of
+&lt;em&gt;Smyrneiko Minore&lt;/em&gt;. (Funny, it was recorded in New York!)&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Ux_whsihlM0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;And here’s a modern take on the song, by Savina Yannatou:&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/M4ir0rK_ci8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;It’s great fun to &lt;em&gt;listen&lt;/em&gt; how this music evolves as it blends with the
+European tradition - or at least with the European tradition of the
+Southern Balkans. For instance, this is Vamvakaris’ take on the
+traditional zeibekiko of Asia Minor in the 30s, during the Piraeus
+period of rebetika:&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/if4SkbfCSvI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;As the years pass rebetika become more and more &lt;em&gt;European&lt;/em&gt;. Listen, for
+instance, to Mpellou (probably the greatest, wonderful&lt;em&gt;est&lt;/em&gt;,
+magnificent&lt;em&gt;est&lt;/em&gt; voice in the past, present and future of rebetiko)
+singing &lt;em&gt;Sinefiasmeni kiriaki&lt;/em&gt;:&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/QR03kMVUZ9k&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;(If you want to learn more about rebetiko, there’s a decent Wikipedia
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Rebetiko&#34;&gt;page&lt;/a&gt; about it. Even better is
+Gail Holst’s book &lt;a href=&#34;https://www.amazon.com/Road-Rembetika-sub-culture-sorrow-hashish/dp/9607120078&#34;&gt;&lt;em&gt;Road to
+rembetika&lt;/em&gt;&lt;/a&gt;.)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nissim Francez&#39;s &#39;Proof-theoretic semantics&#39; (I)</title>
+      <link>http://bdicher.me/post/francez/</link>
+      <pubDate>Sun, 20 Nov 2016 22:16:24 +0100</pubDate>
+      
+      <guid>http://bdicher.me/post/francez/</guid>
+      <description>
+
+&lt;h1 id=&#34;preamble&#34;&gt;Preamble&lt;/h1&gt;
+
+&lt;p&gt;I am sharing an office with Francesco Paoli and, ever since I arrived in Cagliari (that was in February), &lt;a href=&#34;http://www.cs.technion.ac.il/~francez/&#34;&gt;Nissim Francez&amp;rsquo;s&lt;/a&gt; book &lt;a href=&#34;http://www.collegepublications.co.uk/logic/?00031&#34;&gt;Proof-theoretic semantics&lt;/a&gt; was always of Francesco&amp;rsquo;s desk. Okay, this is the wrong way of putting it; for one thing, I&amp;rsquo;ve read it. What I mean is that the book was never re-shelved. That&amp;rsquo;s a good faith for a book.&lt;/p&gt;
+
+&lt;p&gt;This particular book deserves aplenty a friendly review and I have planned to write one but never quite got to doing it. This (i.e., training myself to keep a regular blog) is as good as any an excuse to finally take some steps in that direction.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note to self: Markdown for italic not rendered. Check. css (?).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;the-review&#34;&gt;The review&lt;/h1&gt;
+
+&lt;p&gt;This review will come up in three instalments. The first is an overview of the first part of the book; the second is a discussion of several points of disagreement between Nissim and I followed by some general comments on my &amp;lsquo;aesthetical experience&amp;rsquo; when reading the book; the third and final instalment is an overview of the second part of the book.&lt;/p&gt;
+
+&lt;p&gt;Since this is a practice run for the blog, I won&amp;rsquo;t bother with the niceties one usually puts in a positive review. I&amp;rsquo;ll save that for the official review. Instead, I&amp;rsquo;ll just say it outright here: I really like the book. You too should like it!&lt;/p&gt;
+
+&lt;h1 id=&#34;the-first-instalment&#34;&gt;The first instalment&lt;/h1&gt;
+
+&lt;h2 id=&#34;overview-of-the-first-part&#34;&gt;Overview of the first part&lt;/h2&gt;
+
+&lt;p&gt;Francez&amp;rsquo;s book is, to date, the only extensive monograph on proof-theoretic semantics &amp;ndash; i.e., the incarnation of logical inferentialism ostensibly inaugurated by Gentzen and subsequently developed by Prawitz, Dummett, and others. With a twist, for Francez attempts to apply those ideas to fragments of the natural language. This twist occupies the second part of the book and I shall have little to say about it. For me, the best bits are in the first part.&lt;/p&gt;
+
+&lt;p&gt;The &amp;lsquo;Introduction&amp;rsquo; cursorily explores some of the philosophical underpinnings of logical inferentialism as embodied into proof-theoretic semantics. Unsurprisingly, this is pretty standard stuff; Francez does little to elaborate on the finer points of the matter. Nevertheless, the newcomer, even if starting the Phisolophy station, may find some worthwhile exploring paths. (I also haste to add that this judgement does not apply beyond this point.) I am more excited by the fifth section of the Introduction, &amp;lsquo;Natural-deduction proof-systems&amp;rsquo;. (I hate these hyphens.) This is a systematic and very careful presentation of natural deduction in Gentzen&amp;rsquo;s tree format. Everything is introduced by precise definitions and clear examples. It&amp;rsquo;s great to have it at hand, especially since it is the kind of stuff that I can&amp;rsquo;t stand writing. The chapter ends with a section on the idea of natural deduction rules as meaning conferring. Again, this is pretty straightforward and no-nonsense.&lt;/p&gt;
+
+&lt;p&gt;The first part of the book, &amp;lsquo;Proof-theoretic semantics in logic&amp;rsquo; consists of five chapters. Chapter 2 presents some familiar logics (minimal, intuitionist, classical, relevant; it also contains a brief subsection on modal logic). This is more than enough for making the book self-contained, but one will not gain much knwoledge about these logics from here. The presentation is clear and illuminating; the pace is pleasantly alert. Moreover, it already touches on central issues in the development of proof-theoretic semantics for these logics. For instance, the section on classical logic (2.2) is organised around the troubles generated by negation (via double negation elimination, the law of the excluded middle and &amp;lsquo;indirect proof&amp;rsquo; (i.e., classical &lt;em&gt;reductio ad absurdum&lt;/em&gt;)).&lt;/p&gt;
+
+&lt;p&gt;The third chapter (&amp;lsquo;The basis of acceptability of ND-rules as meaning conferring&amp;rsquo;) unfolds the drama of proof-theoretic semantics. About half of the chapter is occupied by the discussion of &lt;strong&gt;harmony&lt;/strong&gt;. Recall that this is a term introduced by Dummett to designate the match of strength between the introduction and elimination rules for a constant. In turn, harmony is taken as a mark of the rules for that constant being well-behaved. Or, to put it slightly differently, it marks the success of the rules in defining a coherent (logical) concept. (I&amp;rsquo;ll say more about harmony in the second instalment.) Francez discusses in detail three formal accounts of harmony &amp;ndash; intrinsic harmony, harmony in form and symmetric harmony. (I will discuss these in more detail in the second part of this review.) These are related to each other as well as to other concepts in the same ballpark, specifically, normalisability and conservativeness. The presentation is clear and easy to follow, especially if one is confortable with the logician&amp;rsquo;s/mathemathician&amp;rsquo;s habbit of breaking the prose into designated environments. Alas, Thomas Mann and other aesthetes have no reason to fear competition as far as style is concerned. The second part of the chapter looks at the logics introduced previously and checks whether their rules are harmonious. You know the story: intuitionist logic is the winner; the other competitors appeal the decision. It is well known that classical logic doesn&amp;rsquo;t pass muster when it is formulated in SET:FMLA (i.e., when the formulation allows the use of many premises but restricts the number of conclusions to one). The solution to this problem is postponed for the subsequent chapter.&lt;/p&gt;
+
+&lt;p&gt;Chapter 4 tackles the problem of harmonising classical logic. Francez considers the two main strategies, i.e., changing the framework and adopting a bilateralist perspective. The change of framework amounts to switching to a multiple-conclusion consequence relation. I am rather excited by Francez treating here the extra complication brought about by the possibility of formulating multiple-conclusion natural deduction calculi with either additive or with multiplicative rules. This topic deserves a lot more attention than it has previously received in the literature and Francez&amp;rsquo;s discussion of it is a welcome step in that direction. I am almost equally happy with him unearthing some lost gems of the literature on natural deduction, such as Boricis&amp;rsquo;s paper.&lt;/p&gt;
+
+&lt;p&gt;The second strategy is to move from rules dealing only with assertions to rules dealing with both assertion and denial. Francez discusses in some detail Rumfit-style bilateralism and provides a very nice account of intrinsic harmony in bilateral systems. The final section of the chapter surveys briefly &amp;lsquo;alternative conceptions of harmony justifying [c]lassical [l]ogic&amp;rsquo;. One of these relies on the adoption of &amp;lsquo;impure&amp;rsquo; rules. Such rules mention in their schematic formulation more than one logical constant. (For reference, Peter Milne is their champion (or godfather &amp;ndash; and yes, I do encourage you to think about the film!), but Gentzen himself was not worried about purity; his NK has negation governed by the zero-premise rule &lt;em&gt;A or not-A&lt;/em&gt;, i.e., by &lt;em&gt;tertium non datur&lt;/em&gt;.) I, for one, don&amp;rsquo;t like them. That aside, I am rather baffled by Francez&amp;rsquo;s &amp;lsquo;own position&amp;rsquo; which is that:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;As long as the goal is the justification of Classical Logic (which anyway contains disjunction), I find the arguments acceptable. Furthermore, I find the general use of impure ND-rules acceptable for the justification of &lt;em&gt;any&lt;/em&gt; logic containing all the operators mentioned in the impure rules. However, when the goal is the (schematic) definition of negation, when added to an &lt;em&gt;arbitrary&lt;/em&gt; object language [&amp;hellip;] I find the use of impure rules for defining negation unacceptable. After all, harmony (here achieved via the use of impure rules) is not a goal by itself &amp;ndash; it only serves to rule out &amp;ldquo;bad&amp;rdquo; definitions that do not satisfy the more immediate demands of purity and separability. (p. 180)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I have a hard time wrapping my head around why the conditions of correct definition of a connective (here negation) may be overridden by whatever happens in a certain logic, such as it containing another connective, in this case disjunction. Besides, what is this goal, of justifying classical logic, if not the goal of showing that its connectives are harmonious? It may be that I am misunderstanding something here. But I classify Francez&amp;rsquo;s preferred account of harmony &amp;ndash; intrinsic harmony &amp;ndash; as one which is aims at locality. That is, as an account which aims to characterise harmony only in terms of properties of  introduction/elimination rules for a constant, &lt;em&gt;independently&lt;/em&gt; of what else happens in the logic under consideration. This makes his conclusion even stranger. (Locality is an aim which I myself find misguided, but that is another question.)&lt;/p&gt;
+
+&lt;p&gt;The penultimate chapter in Part I is entitled &amp;lsquo;Proof-theoretic semantic values&amp;rsquo;. This is a very interesting development, if one that I am not feeling too confident in judging. Francez develops what is essentially a theory of &amp;lsquo;grounds&amp;rsquo; (in Prawitz&amp;rsquo;s sense). Grounds receive a precise formal definition (p. 185) and their theory is pushed up to defining, in a remarkably simple way, proof-theoretic logical consequence in relation to them. According to this definition &lt;em&gt;A&lt;/em&gt; follows from a set of sentences &lt;em&gt;X&lt;/em&gt; iff and only if the grounds for &lt;em&gt;A&lt;/em&gt; are included into the ground for &lt;em&gt;X&lt;/em&gt;. There is a wealth of stuff to think about in this chapter, whether one is provoked by the idea of &amp;lsquo;reifying&amp;rsquo; proof-theoretic meanings or tempted to explore further Francez&amp;rsquo;s suggestion that his results &amp;lsquo;can be seen as fully in concert with Dosen&amp;rsquo;s characterisation of connectives as internalizing structural properties&amp;rsquo;. (This is an idiosyncratic selection. Read the chapter and you&amp;rsquo;ll find other interesting stuff.)&lt;/p&gt;
+
+&lt;p&gt;The final chapter in this part, &amp;lsquo;Other developments&amp;rsquo;, surveys other topics in proof-theoretic semantics. It goes over Schroeder-Heister style higher order rules (which discharge derivations, not only formulae), validity concepts in proof-theoretic semantics, the sequent calculus as a system for developing proof-theoretic semantics and reductive harmony &amp;ndash; a harmony-based approach to what Dummett called first and second degree justification of logical laws. (I don&amp;rsquo;t really understand how the material is organised in this chapter. Section 6.2., &amp;lsquo;Validity of Arguments&amp;rsquo;, is 12 lines long; it is followed by two sections, entitled, respectively, &amp;lsquo;Model-theoretic validity&amp;rsquo; (6.3) and &amp;lsquo;Proof-theoretic validity&amp;rsquo; (6.4). The first is brief and largely recapitulative; the second is longer and meatier. For instance, it includes a 6 pages long subsection on Schroeder-Heister&amp;rsquo;s theory of &amp;lsquo;definitional reasoning&amp;rsquo;. I am not quite sure what goes on here. This is definitely not how I would have organised the same material. Despite this, I very much enjoyed reading it. A good reason to deliver these remarks inside  parentheses.)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>May Athena make you wise(er than I am)!</title>
+      <link>http://bdicher.me/post/welcome/</link>
+      <pubDate>Tue, 08 Nov 2016 22:16:24 +0100</pubDate>
+      
+      <guid>http://bdicher.me/post/welcome/</guid>
+      <description>&lt;p&gt;===&lt;/p&gt;
+
+&lt;p&gt;It took some time, but the blog section of the website is finally up –
+albeit as a practice run. I will finalise it in a week or so, but until
+then I may as well add some content.&lt;/p&gt;
+
+&lt;p&gt;I have decided to make the blog something of an aside to the website,
+mainly because I don’t trust myself to keep to a regular blogging
+schedule. However, I have big plans. Apart from my review of Nissim
+Francez’s &lt;em&gt;Proof-theoretic semantics&lt;/em&gt;, the first instalment of which
+will go up tomorrow, here’s what else I have in store for you.&lt;/p&gt;
+
+&lt;p&gt;Lately, I have been thinking about &lt;em&gt;immigration and refugees&lt;/em&gt; and
+re-read Dummett’s book (&lt;em&gt;On immigration and refugees&lt;/em&gt;). (Incidentally,
+this is the only book on the topic I have ever read, so blogging about
+this is gonna be a kind of ‘amateurs-gone-bonkers’ affair.) I will
+report these thoughts.&lt;/p&gt;
+
+&lt;p&gt;I also have a blog post written in Romanian about a couple (?) of years
+ago. I wrote it when the ‘refugees crisis’ hit its peak. At that time,
+it was hard to tell who had the more disgusting attitude: the Romanian
+government or the Romanian intelligentsia. What was clear is that they
+were equally dumb, so I thought even my amateuresque intervention may
+help. The post was never published. I sent it to a friend who was
+running a nice (leftist) blogging platform, but he said pass, ostensibly
+because it was too abstract. It is true that it was developing a
+philosophical argument of sorts and I reckon you can’t go more abstract
+than this if you want to write words, not formulae. So I’ll try to post
+that here.&lt;/p&gt;
+
+&lt;p&gt;All this should keep me busy for a couple of weeks, provided I’ll find
+the time/energy to get any busier than I already am.&lt;/p&gt;
+
+&lt;p&gt;A tout!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
